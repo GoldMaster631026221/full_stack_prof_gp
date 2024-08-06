@@ -161,6 +161,17 @@ const Project = () => {
                 </span>
               </button>
             </Link>
+            {/* <Link
+              to="/project"
+              className="text-2xl hover:text-primary duration-300"
+            >
+              <button className="primary-button">
+                <span>See All</span>
+                <span>
+                  <FiArrowRight />
+                </span>
+              </button>
+            </Link> */}
           </div>
         )}
       </div>
