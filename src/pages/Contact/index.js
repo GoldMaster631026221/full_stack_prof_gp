@@ -9,8 +9,8 @@ import {
   FaLocationArrow,
   FaLinkedin,
   FaGithubSquare,
-  FaTwitterSquare,
-  FaInstagramSquare,
+  // FaTwitterSquare,
+  // FaInstagramSquare,
 } from "react-icons/fa";
 import { MdEmail, MdSend } from "react-icons/md";
 import emailjs from "@emailjs/browser";
